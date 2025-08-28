@@ -6,4 +6,5 @@ HTML,CSS
 connect with me:
 vangalavamshi@gmail.com
 #badge
-https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=JAVA&label=JAVA&color=orange
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+
